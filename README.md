@@ -13,11 +13,13 @@ Este proyecto surge del interés por afianzar y aplicar conocimientos fundamenta
 
 ## 📂 Estructura del repositorio
 
+```text
 python-for-everybody-colab/
 │
-├── notebooks/ # Cuadernos de Google Colab por capítulo
-├── data/ # Archivos de texto u otros usados en los ejercicios
-└── README.md # Este archivo
+├── notebooks/     # Cuadernos de Google Colab por capítulo
+├── data/          # Archivos de texto u otros usados en los ejercicios
+└── README.md      # Este archivo
+```
 
 ## ✅ Progreso
 
