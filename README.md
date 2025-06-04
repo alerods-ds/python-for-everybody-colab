@@ -25,7 +25,7 @@ python-for-everybody-colab/
 
 | Chapter | Títle                                           | Notebook  |
 |---------|-------------------------------------------------|-----------|
-| 01      | [Why should you learn to write programs?](https://github.com/alerods-ds/python-for-everybody-colab/blob/main/notebooks/chapter_01.ipynb)         | ✅        | 
+| 01      | [Why should you learn to write programs?](notebooks/chapter_01.ipynb)         | ✅        | 
 | 02      | Variables, expressions, and statements          | 🔄        |
 | 03      | Conditional execution                           | ⏳        |
 | 04      | Functions                                       | ⏳        |
