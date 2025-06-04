@@ -1,63 +1,57 @@
-# Python for Everybody - Ejercicios en Google Colab
+# Python for Everybody - Exercise Solutions
 
-Este repositorio contiene mi resolución personal de los ejercicios del libro [*Python for Everybody*](https://www.py4e.com/) de Charles Severance (Dr. Chuck). A través de notebooks ejecutables en Google Colab, aplico los conceptos fundamentales de Python en tareas clave del análisis de datos, incluyendo estructuras de datos, procesamiento de archivos, expresiones regulares, uso de APIs, manejo de bases de datos y visualización. Este proyecto forma parte de la construcción de mi perfil como data scientist, integrando herramientas computacionales complementarias a mi formación en ciencias exactas.
+This repository contains my personal solutions to the exercises in the book [*Python for Everybody*](https://www.py4e.com/) by Charles Severance (Dr. Chuck). Using executable notebooks in Google Colab, I apply core Python concepts to key data analysis tasks, including data structures, file processing, regular expressions, APIs, databases, and data visualization. This project is part of building my data science profile by integrating computational tools with my background in the exact sciences.
 
-## 🧠 Motivación
+## 🧠 Motivation
 
-Este proyecto surge del interés por afianzar y aplicar conocimientos fundamentales de Python en el contexto de la ciencia de datos. Trabajar con este material me permite:
+This project stems from my interest in strengthening and applying fundamental Python skills with a focus on a career in data science. Working through this material allows me to:
 
-- Consolidar conceptos clave a través de ejercicios prácticos.
-- Utilizar Google Colab como entorno habitual de trabajo.
-- Documentar el aprendizaje mediante explicaciones claras y reproducibles.
-- Mantener una referencia accesible y bien estructurada como parte de mi desarrollo profesional.
+- Reinforce core concepts through hands-on practice.
+- Use Google Colab as a regular working environment.
+- Document the learning process with clear, reproducible explanations.
+- Maintain an accessible and well-structured reference as part of my professional development.
 
-## 📂 Estructura del repositorio
+## 📂 Repository structure
 
 ```text
 python-for-everybody-colab/
 │
-├── notebooks/     # Cuadernos de Google Colab por capítulo
-├── data/          # Archivos de texto u otros usados en los ejercicios
-└── README.md      # Este archivo
+├── notebooks/     # Google Colab notebooks by chapter
+├── data/          # Text files and other data used in exercises
+└── README.md      # This file
 ```
 
-## ✅ Progreso
+## ✅ Progress
 
-| Capítulo | Título                                          | Notebook  |
-|----------|-------------------------------------------------|-----------|
-| 01       | [Why should you learn to write programs?](https://github.com/alerods-ds/python-for-everybody-colab/blob/main/notebooks/chapter_01.ipynb)         | ✅        | 
-| 02       | Variables, expressions, and statements          | 🔄        |
-| 03       | Conditional execution                           | ⏳        |
-| 04       | Functions                                       | ⏳        |
-| 05       | Iteration                                       | ⏳        |
-| 06       | Strings                                         | ⏳        |
-| 07       | Files                                           | ⏳        |
-| 08       | Lists                                           | ⏳        |
-| 09       | Dictionaries                                    | ⏳        |
-| 10       | Tuples                                          | ⏳        |
-| 11       | Regular expressions                             | ⏳        |
-| 12       | Networked programs                              | ⏳        |
-| 13       | Using Web Services                              | ⏳        |
-| 14       | Object-oriented programming                     | ⏳        |
-| 15       | Using Databases and SQL                         | ⏳        |
-| 16       | Visualizing data                                | ⏳        |
+| Chapter | Títle                                           | Notebook  |
+|---------|-------------------------------------------------|-----------|
+| 01      | [Why should you learn to write programs?](https://github.com/alerods-ds/python-for-everybody-colab/blob/main/notebooks/chapter_01.ipynb)         | ✅        | 
+| 02      | Variables, expressions, and statements          | 🔄        |
+| 03      | Conditional execution                           | ⏳        |
+| 04      | Functions                                       | ⏳        |
+| 05      | Iteration                                       | ⏳        |
+| 06      | Strings                                         | ⏳        |
+| 07      | Files                                           | ⏳        |
+| 08      | Lists                                           | ⏳        |
+| 09      | Dictionaries                                    | ⏳        |
+| 10      | Tuples                                          | ⏳        |
+| 11      | Regular expressions                             | ⏳        |
+| 12      | Networked programs                              | ⏳        |
+| 13      | Using Web Services                              | ⏳        |
+| 14      | Object-oriented programming                     | ⏳        |
+| 15      | Using Databases and SQL                         | ⏳        |
+| 16      | Visualizing data                                | ⏳        |
 
-> 🔄 = En curso | ✅ = Completado | ⏳ = Pendiente
+> 🔄 = In progress | ✅ = Completed | ⏳ = Pending
 
-## 🚀 Cómo abrir los notebooks
-
-Los notebooks se pueden abrir directamente desde Google Colab haciendo clic en los enlaces de cada archivo.
-
-Ejemplo:  **En construcción**
-
-## 🛠 Tecnologías usadas
+## 🛠 Technologies used
 
 - Python 3
 - Google Colab
-- Git y GitHub
+- Git & GitHub
 
-## 📌 Créditos
+## 📌 Credits
 
-Basado en el libro *Python for Everybody* de Charles Severance, distribuido bajo licencia Creative Commons [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+Based on the book *Python for Everybody* by Charles Severance, distributed under the Creative Commons license [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ---
