@@ -27,8 +27,8 @@ python-for-everybody-colab/
 |---------|-------------------------------------------------|-----------|
 | 01      | [Why should you learn to write programs?](notebooks/chapter_01.ipynb)         | ✅        | 
 | 02      | [Variables, expressions, and statements](notebooks/chapter_02.ipynb)          | ✅        |
-| 03      | Conditional execution                           | 🔄        |
-| 04      | Functions                                       | ⏳        |
+| 03      | [Conditional execution](notebooks/chapter_03.ipynb)                           | ✅        |
+| 04      | Functions                                       | 🔄        |
 | 05      | Iteration                                       | ⏳        |
 | 06      | Strings                                         | ⏳        |
 | 07      | Files                                           | ⏳        |
