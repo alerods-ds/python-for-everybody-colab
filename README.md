@@ -29,8 +29,8 @@ python-for-everybody-colab/
 | 02      | [Variables, expressions, and statements](notebooks/chapter_02.ipynb)          | ✅        |
 | 03      | [Conditional execution](notebooks/chapter_03.ipynb)                           | ✅        |
 | 04      | [Functions](notebooks/chapter_04.ipynb)                                       | ✅        |
-| 05      | Iteration                                       | 🔄        |
-| 06      | Strings                                         | ⏳        |
+| 05      | [Iteration](notebooks/chapter_05.ipynb)                                       | ✅        |
+| 06      | Strings                                         | 🔄        |
 | 07      | Files                                           | ⏳        |
 | 08      | Lists                                           | ⏳        |
 | 09      | Dictionaries                                    | ⏳        |
