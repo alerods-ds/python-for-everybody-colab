@@ -30,8 +30,8 @@ python-for-everybody-colab/
 | 03      | [Conditional execution](notebooks/chapter_03.ipynb)                           | ✅        |
 | 04      | [Functions](notebooks/chapter_04.ipynb)                                       | ✅        |
 | 05      | [Iteration](notebooks/chapter_05.ipynb)                                       | ✅        |
-| 06      | Strings                                         | 🔄        |
-| 07      | Files                                           | ⏳        |
+| 06      | [Strings](notebooks/chapter_06.ipynb)                                         | ✅        |
+| 07      | Files                                           | 🔄        |
 | 08      | Lists                                           | ⏳        |
 | 09      | Dictionaries                                    | ⏳        |
 | 10      | Tuples                                          | ⏳        |
