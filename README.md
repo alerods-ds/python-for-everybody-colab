@@ -33,8 +33,8 @@ python-for-everybody-colab/
 | 06      | [Strings](notebooks/chapter_06.ipynb)                                         | ✅        |
 | 07      | [Files](notebooks/chapter_07.ipynb)                                           | ✅        |
 | 08      | [Lists](notebooks/chapter_07.ipynb)                                           | ✅        |
-| 09      | Dictionaries                                    | 🔄        |
-| 10      | Tuples                                          | ⏳        |
+| 09      | [Dictionaries](notebooks/chapter_07.ipynb)                                    | ✅        |
+| 10      | Tuples                                          | 🔄        |
 | 11      | Regular expressions                             | ⏳        |
 | 12      | Networked programs                              | ⏳        |
 | 13      | Using Web Services                              | ⏳        |
