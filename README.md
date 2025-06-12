@@ -32,10 +32,10 @@ python-for-everybody-colab/
 | 05      | [Iteration](notebooks/chapter_05.ipynb)                                       | ✅        |
 | 06      | [Strings](notebooks/chapter_06.ipynb)                                         | ✅        |
 | 07      | [Files](notebooks/chapter_07.ipynb)                                           | ✅        |
-| 08      | [Lists](notebooks/chapter_07.ipynb)                                           | ✅        |
-| 09      | [Dictionaries](notebooks/chapter_07.ipynb)                                    | ✅        |
-| 10      | Tuples                                          | 🔄        |
-| 11      | Regular expressions                             | ⏳        |
+| 08      | [Lists](notebooks/chapter_08.ipynb)                                           | ✅        |
+| 09      | [Dictionaries](notebooks/chapter_09.ipynb)                                    | ✅        |
+| 10      | [Tuples](notebooks/chapter_10.ipynb)                                          | ✅        |
+| 11      | Regular expressions                             | 🔄        |
 | 12      | Networked programs                              | ⏳        |
 | 13      | Using Web Services                              | ⏳        |
 | 14      | Object-oriented programming                     | ⏳        |
