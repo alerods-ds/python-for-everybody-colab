@@ -35,8 +35,8 @@ python-for-everybody-colab/
 | 08      | [Lists](notebooks/chapter_08.ipynb)                                           | ✅        |
 | 09      | [Dictionaries](notebooks/chapter_09.ipynb)                                    | ✅        |
 | 10      | [Tuples](notebooks/chapter_10.ipynb)                                          | ✅        |
-| 11      | Regular expressions                             | 🔄        |
-| 12      | Networked programs                              | ⏳        |
+| 11      | [Regular expressions](notebooks/chapter_10.ipynb)                             | ✅        |
+| 12      | Networked programs                              | 🔄        |
 | 13      | Using Web Services                              | ⏳        |
 | 14      | Object-oriented programming                     | ⏳        |
 | 15      | Using Databases and SQL                         | ⏳        |
